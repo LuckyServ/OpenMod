@@ -22,7 +22,7 @@
 - Health Bonus: 85% (increased from 70%)
 - Damage Bonus: 15% (decreased from 30%)
 
-### Further dicussed changes
+## Further dicussed changes (not implemented yet)
 - Melees should be found in the map, instead of given in the saferoom.
 - Horde limit changes on other events.
 - Bring BHops back?
