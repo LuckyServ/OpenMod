@@ -18,6 +18,15 @@
 ### Hordes
 - c2m3 and c2m4 events are now infinite.  
 
-### Changes to come
+### Bonus
+- Health Bonus: 85% (increased from 70%)
+- Damage Bonus: 15% (decreased from 30%)
+
+### Further dicussed changes
 - Melees should be found in the map, instead of given in the saferoom.
 - Horde limit changes on other events.
+- Bring BHops back?
+- Jumprocks: No, unless everyone has a "jumprock magic button"
+- Spitter during tank: You should be able to choose between Spitter and Boomer, but there should
+  only be a single support ghost at any time during the tank.
+- Spawn timers: 1-2 seconds longer
