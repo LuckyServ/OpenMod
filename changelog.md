@@ -9,7 +9,7 @@
 - smg_silenced rangemod: 0.75 (nerfed from 0.79)  
 
 ### Spitter Changes
-- Spit damage now does an average of 3.5 damage per tick (buffed)  
+- Spit damage now does an average of 3.5 damage per tick (buffed from 2.5)  
 
 ### Scratches
 - Charger: 10 (buffed from 8)  
