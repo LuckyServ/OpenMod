@@ -1,5 +1,7 @@
 # OpenMod
 
+---
+
 ## OpenMod 0.0.3
 
 ### Weapon Changes
@@ -21,6 +23,8 @@
 ### Tank Spawns
 - Hard Rain c4m3: Removed the 20-35% tank spawn ban
 
+---
+
 ## OpenMod 0.0.2
 
 ### Spawn timer changes
@@ -28,6 +32,8 @@
 
 ### Weapon Changes
 - smg rangemod: 0.80 (default value was apparently 0.83)
+
+---
 
 ## OpenMod 0.0.1
 
@@ -51,11 +57,12 @@
 - Health Bonus: 85% (increased from 70%)
 - Damage Bonus: 15% (decreased from 30%)
 
+---
+
 ## Further dicussed changes (not implemented yet)
-- Melees should be found in the map, instead of given in the saferoom.
 - Horde limit changes on other events.
 - Bring BHops back?
 - Jumprocks: No, unless everyone has a "jumprock magic button"
 - Spitter during tank: You should be able to choose between Spitter and Boomer, but there should
   only be a single support ghost at any time during the tank.
-- Spawn timers: 1-2 seconds longer
+- Witch: You should have an option for pugs to have a witch at the start of config load.
