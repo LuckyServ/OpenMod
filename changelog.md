@@ -1,10 +1,18 @@
 # OpenMod
 
+## OpenMod 0.0.2
+
+### Spawn timer changes
+- Spawn timers increased to 17 seconds (nerfed from 15)
+
+### Weapon Changes
+- smg rangemod: 0.80 (default value was apparently 0.83)
+
 ## OpenMod 0.0.1
 
 ### Weapon Changes
 - smg damage: 22 (same)   
-- smg rangemod: 0.85 (nerfed from default value, I'm guessing it was 1)   
+- smg rangemod: 0.85 (nerfed from default value? I'm guessing it was 1)   
 - smg_silenced damage: 26 (buffed from 24)  
 - smg_silenced rangemod: 0.75 (nerfed from 0.79)  
 
