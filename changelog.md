@@ -12,7 +12,6 @@
 
 ### Melees in the saferoom
 - Back to normal (no more exclusive saferoom melees)
-- sb_max_team_melee_weapons: 2 (nerfed from 4)
 
 ### Map distances
 - Parish c5m1: 400 (buffed from 300)
