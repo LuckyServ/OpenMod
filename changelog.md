@@ -1,4 +1,12 @@
-# OpenMod
+# OpenMod Changelogs
+
+## Further dicussed changes (not implemented yet)
+- Horde limit changes on other events.
+- Bring BHops back?
+- Jumprocks: No, unless everyone has a "jumprock magic button"
+- Spitter during tank: You should be able to choose between Spitter and Boomer, but there should
+  only be a single support ghost at any time during the tank.
+- Witch: You should have an option for pugs to have a witch at the start of config load.
 
 ---
 
@@ -58,10 +66,3 @@
 
 ---
 
-## Further dicussed changes (not implemented yet)
-- Horde limit changes on other events.
-- Bring BHops back?
-- Jumprocks: No, unless everyone has a "jumprock magic button"
-- Spitter during tank: You should be able to choose between Spitter and Boomer, but there should
-  only be a single support ghost at any time during the tank.
-- Witch: You should have an option for pugs to have a witch at the start of config load.
