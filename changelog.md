@@ -1,5 +1,26 @@
 # OpenMod
 
+## OpenMod 0.0.3
+
+### Weapon Changes
+- smg_silenced rangemod: 0.78 (buffed from 0.75)
+
+### Scratches
+- Charger: 8 (nerfed from 10)
+
+### Melees in the saferoom
+- Back to normal (no more exclusive saferoom melees)
+- sb_max_team_melee_weapons: 2 (nerfed from 4)
+
+### Map distances
+- Parish c5m1: 400 (buffed from 300)
+- No Mercy c8m1: 400 (buffed from 300) 
+- Death Toll c10m1: 400 (buffed from 300)
+- Dead Air C11m1: 400 (buffed from 300)
+
+### Tank Spawns
+- Hard Rain c4m3: Removed the 20-35% tank spawn ban
+
 ## OpenMod 0.0.2
 
 ### Spawn timer changes

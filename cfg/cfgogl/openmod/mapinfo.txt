@@ -11,7 +11,7 @@
 		"max_tank_z"        "1200.000000"
 		"tank_warpto"       "2168.357666 5803.427734 2464.031250"
 		"tank_ban_flow_min" "28"
-        "tank_ban_flow_max" "82"
+		"tank_ban_flow_max" "82"
 		"max_distance"      "400"
 	}
 	"c1m2_streets"
@@ -168,8 +168,6 @@
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "300.000000"
 		"max_distance"      "600"
-		"tank_ban_flow_min" "20"
-		"tank_ban_flow_max" "35"
 	}
 	"c4m4_milltown_b"
 	{
@@ -200,7 +198,7 @@
 		"start_dist"        "75.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "250.000000"
-		"max_distance"      "300"
+		"max_distance"      "400"
 		"tank_ban_flow_min" "0"
 		"tank_ban_flow_max" "38"
 	}
@@ -314,7 +312,7 @@
 		"start_extra_dist"  "605.247620"
 		"end_point"         "2883.220703 2962.613037 -204.742737"
 		"end_dist"          "336.442200"
-		"max_distance"      "300"
+		"max_distance"      "400"
 	}
 	"c8m2_subway"
 	{
@@ -389,7 +387,7 @@
 		"start_extra_dist"  "587.266541"
 		"end_point"         "-10784.895508 -4906.771973 318.224670"
 		"end_dist"          "403.989594"
-		"max_distance"      "300"
+		"max_distance"      "400"
 	}
 	"c10m2_drainage"
 	{
@@ -437,7 +435,7 @@
 		"start_extra_dist"  "577.638000"
 		"end_point"         "5274.120605 2715.548584 88.261955"
 		"end_dist"          "314.896759"
-		"max_distance"      "300"
+		"max_distance"      "400"
 	}
 	"c11m2_offices"
 	{
@@ -574,7 +572,7 @@
 		"end_dist"          "591.145630"
 		"tank_ban_flow_min" "0"
 		"tank_ban_flow_max" "38"
-		"max_distance" 	    "300"
+		"max_distance" 	    "400"
 	}
 	"c5m2_darkpark"
 	{
