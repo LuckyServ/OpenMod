@@ -3,7 +3,7 @@
 ## OpenMod 0.0.2
 
 ### Spawn timer changes
-- Spawn timers increased to 17 seconds (nerfed from 15)
+- Spawn timers increased to 16 seconds (nerfed from 15)
 
 ### Weapon Changes
 - smg rangemod: 0.80 (default value was apparently 0.83)
