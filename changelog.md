@@ -2,11 +2,28 @@
 
 ## Further dicussed changes (not implemented yet)
 - Horde limit changes on other events.
-- Bring BHops back?
-- Jumprocks: No, unless everyone has a "jumprock magic button"
 - Spitter during tank: You should be able to choose between Spitter and Boomer, but there should
   only be a single support ghost at any time during the tank.
 - Witch: You should have an option for pugs to have a witch at the start of config load.
+- Pills should be worth 50 points (the cvar seems bugged)
+- Tank should not pass to AI if it has low rage, but line of sight on survivors.
+
+---
+
+## OpenMod 0.0.4
+
+### Spitter Changes
+- Spit now does 3 damage per tick (nerfed from 3.5) 
+
+## SMG Changes
+- smg_silenced damage: 25 (nerfed from 26)
+
+## CSS Weapons
+- Replacing all CSS weapons (knife, for example) with normal L4D2 weapons.
+
+### Bonus
+- Health Bonus: 80% (decreased from 85%)
+- Damage Bonus: 20% (increased from 15%)
 
 ---
 
