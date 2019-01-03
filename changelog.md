@@ -15,10 +15,10 @@
 ### Spitter Changes
 - Spit now does 3 damage per tick (nerfed from 3.5) 
 
-## SMG Changes
+### SMG Changes
 - smg_silenced damage: 25 (nerfed from 26)
 
-## CSS Weapons
+### CSS Weapons
 - Replacing all CSS weapons (knife, for example) with normal L4D2 weapons.
 
 ### Bonus
