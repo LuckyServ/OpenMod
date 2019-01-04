@@ -21,9 +21,6 @@
 ### Bhopping
 - All players are now able to bhop by holding the "jump" key.
 
-### Helicopter
-- All players are now able to become and attack helicopter by typing **!h**.
-
 ### Ledge hanging
 - Survivors will not ledge hang from high heights.
 
