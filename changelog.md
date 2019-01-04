@@ -13,7 +13,7 @@
 ## OpenMod 0.0.5
 
 ### Fall damage
-- Survivors do not recieve fall damage anymore.
+- Survivors do not receive fall damage anymore.
 
 ### Climbing
 - All players are now able to climb with the "use" key.
