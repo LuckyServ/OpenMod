@@ -10,6 +10,28 @@
 
 ---
 
+## OpenMod 0.0.5
+
+### Fall damage
+- Survivors do not recieve fall damage anymore.
+
+### Climbing
+- All players are now able to climb with the "use" key.
+
+### Bhopping
+- All players are now able to bhop by holding the "jump" key.
+
+### Helicopter
+- All players are now able to become and attack helicopter by typing **!h**.
+
+### Ledge hanging
+- Survivors will not ledge hang from high heights.
+
+### Ready
+- Players do not have to ready up at the begining of chapters anymore.
+
+---
+
 ## OpenMod 0.0.4
 
 ### Spitter Changes
