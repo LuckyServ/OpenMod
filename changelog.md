@@ -21,7 +21,7 @@ health and potential temporary health. Damage bonus is no more!
 - The potential temporary health is the free temporary health you would get from getting picked up
 after an incap.
 - This scoring system accounts for bleeding (unlike the current hybrid system), so get moving!
-- It also solves the problem of not being able to reduce damage bonus because the survivors don't have enough health left.
+- It also solves the problem of not being able to reduce damage bonus [because the survivors don't have enough health left](https://i.imgur.com/7kbi3hg.jpg).
 
 ---
 
