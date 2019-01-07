@@ -12,20 +12,16 @@
 
 ## OpenMod 0.0.5
 
-### Fall damage
-- Survivors do not receive fall damage anymore.
-
-### Climbing
-- All players are now able to climb with the "use" key.
-
-### Bhopping
-- All players are now able to bhop by holding the "jump" key.
-
-### Ledge hanging
-- Survivors will not ledge hang from high heights.
-
-### Ready
-- Players do not have to ready up at the begining of chapters anymore.
+### Scoring system
+- Implemented a new scoring system based on permanent health, current temporary 
+health and potential temporary health. Damage bonus is no more!
+- Survivors are heavily penalised for incaps and deaths (more than the current hybrid system).
+- Perm: Permanent health (total amount of permanent health accross all survivors)
+- Temp: Temporary health (bleeding health points, current and potential)
+- The potential temporary health is the free temporary health you would get from getting picked up
+after an incap.
+- This scoring system accounts for bleeding (unlike the current hybrid system), so get moving!
+- It also solves the problem of not being able to reduce damage bonus because the survivors don't have enough health left.
 
 ---
 
