@@ -1,14 +1,14 @@
 # OpenMod Changelogs
 
-## Further dicussed changes (not implemented yet)
-- Horde limit changes on other events.
-- Spitter during tank: You should be able to choose between Spitter and Boomer, but there should
-  only be a single support ghost at any time during the tank.
-- Witch: You should have an option for pugs to have a witch at the start of config load.
-- Pills should be worth 50 points (the cvar seems bugged)
-- Tank should not pass to AI if it has low rage, but line of sight on survivors.
-
 ---
+
+## OpenMod 1.0
+
+- Enabled m2s and reload on ladders
+- Restored ZoneMod 1.9.3 smg values
+- Hunter claw damage: 2
+- Tank rocks are now lag compensated 
+- Removed pain pills found in the map
 
 ## OpenMod 0.0.5
 
