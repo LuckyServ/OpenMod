@@ -4,7 +4,7 @@
 
 ## OpenMod 1.0
 
-- Enabled m2s and reload on ladders
+- Enabled m2s on ladders
 - Restored ZoneMod 1.9.3 smg values
 - Hunter claw damage: 2
 - Tank rocks are now lag compensated 
