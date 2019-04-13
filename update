@@ -1,6 +1,0 @@
-rm cfg/cfgogl/openmod/* -rf
-rm addons/sourcemod/plugins/optional/openmod/* -rf
-rm cfg/stripper/openmod/* -rf
-cp ~/l4d2/cfg/cfgogl/openmod/* cfg/cfgogl/openmod/
-cp ~/l4d2/addons/sourcemod/plugins/optional/openmod/* addons/sourcemod/plugins/optional/openmod/ -r
-cp ~/l4d2/cfg/stripper/openmod/* cfg/stripper/openmod/ -r
