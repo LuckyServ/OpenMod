@@ -2,6 +2,12 @@
 
 ---
 
+## OpenMod 1.1
+
+- Added throwables
+- Added gas cans / propane tanks / etc
+- Added witch
+
 ## OpenMod 1.0
 
 - Enabled m2s on ladders
