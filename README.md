@@ -62,3 +62,9 @@ To read about the implementation of this new scoring system, click [here](https:
 
 #### Hordes
 - c2m3 and c2m4 events are now infinite.  
+
+## Miscellanous
+
+- Survivors are now able to shove each other again. The throw + shove trick on cans also work again.
+
+As a side-note to other config devs, the cvar responsible for these 2 things above is called 'z_gun_survivor_friend_push'.
