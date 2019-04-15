@@ -21,7 +21,7 @@ In order to make shopping around for items appealing again, increase game depth 
 
 ## Special Infected
 
-#### Spitter Changes
+#### Spitter
 - Spit now does 3 damage per tick (buffed from 3.0) 
 
 #### Scratches
