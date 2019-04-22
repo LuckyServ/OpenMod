@@ -19,6 +19,13 @@ Main changes include but are not limited to:
 
 - Melees will be found in the map (limit of 2). Tonfas and CS Knife are disabled.
 
+## Weapons
+
+#### SMG
+- SMG's damage dropoff has been increased, meaning the SMG does less damage based on distance.
+
+> The range modifier is now set to 0.80 instead of the vanilla value 0.84.
+
 ## Special Infected
 
 #### Spitter
