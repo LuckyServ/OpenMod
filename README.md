@@ -17,7 +17,7 @@ Main changes include but are not limited to:
 
 > In order to make shopping around for items appealing again, increase game depth and alleviate the lack of pills, throwables are back as well as gas cans, propane tanks, etc.
 
-- Melees will be found in the map (limit of 2). Tonfas and CS Knife are disabled.
+- Melees will be found in the map (no limits). Tonfas and CS Knife are disabled.
 
 ## Weapons
 
