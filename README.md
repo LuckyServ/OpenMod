@@ -1,4 +1,4 @@
-# OpenMod 1.1
+# OpenMod 1.2
 
 OpenMod is a config based on [ZoneMod 1.9.3](https://github.com/SirPlease/ZoneMod). The goal of this config it to be open to community feedback
 and make the necessary changes to make the game more enjoyable and balanced. The source code for all my plugins is also available in my [sourcemod-plugins](https://github.com/LuckyServ/sourcemod-plugins) repository.  
@@ -8,10 +8,6 @@ Main changes include but are not limited to:
 ## Items
 
 #### Shopping for items in the map
-
-- No more pain pills found in the map
-
-> The goal of this change is to make special infected fun to play again. In ZoneMod 1.9.3, the only way to wipe was either with Tank or a miracle quad cap. Wiping from damage didn't happen anymore and I felt it took depth away from the game.
 
 - Throwables are back
 
